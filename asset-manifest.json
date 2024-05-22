@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/bcbtd-public/static/css/main.ffe03b88.css",
+    "main.js": "/bcbtd-public/static/js/main.3b67ee3f.js",
+    "static/media/color.png": "/bcbtd-public/static/media/color.6441e63a57ccc5105bad.png",
+    "index.html": "/bcbtd-public/index.html",
+    "main.ffe03b88.css.map": "/bcbtd-public/static/css/main.ffe03b88.css.map",
+    "main.3b67ee3f.js.map": "/bcbtd-public/static/js/main.3b67ee3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffe03b88.css",
+    "static/js/main.3b67ee3f.js"
+  ]
+}
